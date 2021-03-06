@@ -2,7 +2,7 @@
 analytics and data science stuffs with Scala, Python and Jupyter
 
 
-## my data science (AI+ML+Big Data) favorite books:
+## my analytics and data science (AI+ML+Big Data) favorite books:
 
 * [Artificial Intelligence - A Modern Approach 4th ed.](http://aima.cs.berkeley.edu/)
 * [Principles of Data Science 2nd ed.](https://github.com/PacktPublishing/Principles-of-Data-Science-Second-Edition)
