@@ -11,3 +11,4 @@ analytics and data science stuffs with Scala, Python and Jupyter
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd ed.](https://learning.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [Algoritmi per l'intelligenza artificiale](https://www.hoepli.it/libro/algoritmi-per-l-intelligenza-artificiale/9788820391713.html)
 * [Big Data - Principles and best practices of scalable realtime data systems](https://www.manning.com/books/big-data)
+* [Learning Spark, 2nd ed.](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/)
