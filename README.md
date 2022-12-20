@@ -21,7 +21,7 @@ analytics and data science stuffs with Scala, Python and Jupyter
 * [data visualization](http://www.biosci.global/customer-stories-en/data-visualization-cheat-sheet/)
 
 ## favorite notebooks
-* https://github.com/eonofrey/ds_reference_notebook/blob/main/ds_reference_notebook.ipynb
+* https://towardsdatascience.com/the-essential-data-science-reference-notebook-d71ebba922b6
 * https://towardsdatascience.com/basic-guide-to-data-visualization-for-data-science-8e7d966bf10a
 
 
