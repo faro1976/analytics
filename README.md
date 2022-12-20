@@ -22,4 +22,6 @@ analytics and data science stuffs with Scala, Python and Jupyter
 
 ## favorite notebooks
 * https://github.com/eonofrey/ds_reference_notebook/blob/main/ds_reference_notebook.ipynb
+* https://towardsdatascience.com/basic-guide-to-data-visualization-for-data-science-8e7d966bf10a
+
 
