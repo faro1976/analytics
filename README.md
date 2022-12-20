@@ -20,3 +20,6 @@ analytics and data science stuffs with Scala, Python and Jupyter
 * [scikit-learn estimators](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html#)
 * [data visualization](http://www.biosci.global/customer-stories-en/data-visualization-cheat-sheet/)
 
+## favorite notebooks
+* https://github.com/eonofrey/ds_reference_notebook/blob/main/ds_reference_notebook.ipynb
+
